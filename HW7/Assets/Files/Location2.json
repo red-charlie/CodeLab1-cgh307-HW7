@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Fork",
+    "nDescription": "Facing : North <nline> Past the heavy door lies a corridor that splits in three, you stand at the fork. With the door shut behind you the hallway is silent. A deep red carpet lines the floors, and small lights line the pathway under your feet. In front of you (north) is an elevator open and waiting.",
+    "eDescription": "Facing : East <nline> Past the heavy door lies a corridor that splits in three, you stand at the fork. The door is to your right (south) and an open elevator to your left (north). In front of you, the corrider continues and makes a sharp right.",
+    "sDescription": "Facing : South <nline> Past the heavy door lies a corridor that splits in three, you stand at the fork.  A deep red carpet lines the floors, and small lights line the pathway under your feet. <nline> You look at the back of the door. Someone has scratched a message into the wood paneling: I HAVE WHAT YOU SEEK! FIND ME BELOW.",
+    "wDescription": "Facing : West <nline> Past the heavy door lies a corridor that splits in three, you stand at the fork. The door is to your left (south) and an open elevator to your right (north). In front of you, the corrider continues and makes a sharp left.",
+
+    "nLocation": 5,
+    "sLocation": 1,
+    "eLocation": 4,
+    "wLocation": 3
+
+
+
+
+}

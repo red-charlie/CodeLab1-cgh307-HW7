@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Island",
+    "nDescription": "Facing : North <nline> [quick preface: I am currently using this project to write a birthday gift for a friend of mine] <nline> You are on a small island, only a few meters wide. It sits in the middle of a vast, gentle ocean. Before you (to the north) is a short path. Stairs disappear into a tunnel below the waves. It is too dark to see what lies beyond. ",
+    "eDescription": "Facing : East <nline> You face an unending blue sea. The sunrise blindingly crests the horizon. The sand meets the slow slap of water a few feet ahead. You can 't swim,  there is no way forward. ",
+    "sDescription": "Facing : South <nline> You face an unending blue sea. The sand meets the slow slap of water a few feet ahead.  You can 't swim,  there is no way forward. ",
+    "wDescription": "Facing : West <nline> You face an unending blue sea. The sand meets the slow slap of water a few feet ahead. You see the waves gently caress your shadow. It is gentle. It is terrifying. You can 't swim,  there is no way forward. ",
+
+    "nLocation": 1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": -1
+
+
+
+
+}

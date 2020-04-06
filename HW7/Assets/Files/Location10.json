@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Elevator",
+    "nDescription": "Facing : North <nline> The elevator sputters and spits before slowly lowering you several meters deeper into the deep, dark waters. You hear the doors open behind you. The lever in front of you doesn't seem to do anything. ",
+    "eDescription": "Facing : East <nline> This is the wall to the elevator. It looks the same as it did before.",
+    "sDescription": "Facing : South <nline> The door to the elevator has opened to a large beautiful dining hall.",
+    "wDescription": "Facing : West <nline> Yep, that’s a wall.",
+
+    "nLocation": -1,
+    "sLocation": 11,
+    "eLocation": -1,
+    "wLocation": -1
+
+
+
+
+}

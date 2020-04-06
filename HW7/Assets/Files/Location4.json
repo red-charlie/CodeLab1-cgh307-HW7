@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Study",
+    "nDescription": "Facing : North <nline> Large curved windows open the view into the shallow waters. Blue filtered light softly glows into the depths and cascades over a small plain writing desk. A soft blanket rests on the back of the chair, the desk is tidy - only a bit of blank paper and a quill.",
+    "eDescription": "Facing : East <nline> You make your way down a winding hall and come upon a small room. Large windows let in blue filtered light over a small working desk from your left (north). There is a door on the other side of the room that leads further east. There is a small couch on the right (south) side of the room. Behind you lies the corrider back to the elevator.",
+    "sDescription": "Facing : South <nline> The corridor opens to a small room, on the south side is a small but lush looking sofa. The fabric seems rich and worn. ",
+    "wDescription": "Facing : West <nline> You face the corridor that leads back to the elevator.",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 6,
+    "wLocation": 2
+
+
+
+
+}

@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Powerbox",
+    "nDescription": "Facing : North <nline> There is nothing here",
+    "eDescription": "Facing : East <nline> You look back into the bedroom.",
+    "sDescription": "Facing : South <nline> There is nothing here.",
+    "wDescription": "Facing : West <nline> You open the box, to reveal a complicated power system. <nline> Thankfully, by the power of games, you know how to work it, and manage to turn the power on <nline> [THE POWER TO THE ELEVATOR HAS BEEN TURNED ON]  <nline> Behind you is the bedroom.",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 8,
+    "wLocation": -1
+
+
+
+
+}

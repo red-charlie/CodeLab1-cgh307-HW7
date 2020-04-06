@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Elevator",
+    "nDescription": "Facing : North <nline> You stand inside the elevator facing north. The back wall seems to be made of glass, the lights in the elevator show stone wall about an inch away on the other side. There is a small lever at waist height. [Going north will pull the lever]",
+    "eDescription": "Facing : East <nline> You face the east wall of the elevator. It is wood paneled with a gold chair rail. ",
+    "sDescription": "Facing : South <nline> You are facing the fork in the corrider. Beyond you can see the door to the outside (south). The door to the elevator is open. ",
+    "wDescription": "Facing : West <nline> You face the west wall of the elevator. It is wood paneled with a gold chair rail. ",
+
+    "nLocation": 10,
+    "sLocation": 2,
+    "eLocation": -1,
+    "wLocation": -1
+
+
+
+
+}

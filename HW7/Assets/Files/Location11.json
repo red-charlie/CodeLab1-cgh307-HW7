@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Dining Hall",
+    "nDescription": "Facing : South <nline> This leads back into the elevator. ",
+    "eDescription": "Facing : East <nline> The large glass windows give you, yet another, great view of how f***king cool the ocean is.",
+    "sDescription": "Facing : North <nline> The large room is dark except for the filtered deep-sea light. This side of the room has a small table with an assortment of snacks and drinks. A small chocolate frosted cake sits on the right side of the table.",
+    "wDescription": "Facing : West <nline>The west side of the dining room has a large table with several people sitting around it. It's your Dungeons and Dragons group. There is an empty place with your character sheet and dice. <nline> [This is a hint -- and hopefully a great surprise -- that you should walk into the dining room, where we will either have the game setup virtually or in-person depending on social distancing stuff]",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": -1
+
+
+
+
+}

@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Bedroom",
+    "nDescription": "Facing : North <nline> The bed rest on this side of the room. A simple gray wool blanket and white linen is contrasted against the dark wood of the frame. ",
+    "eDescription": "Facing : East <nline> There is a door that leads back towards the elevator.",
+    "sDescription": "Facing : South <nline> Large windows rest above a small vanity and sink. The ocean beyond is beautiful and dark. ",
+    "wDescription": "Facing : West <nline> The door opens into a small dark bedroom. A large locked box (perhaps you need a key?) is on the west wall of the room. ",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 3,
+    "wLocation": 9
+
+
+
+
+}

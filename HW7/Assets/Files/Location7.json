@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Observation Room",
+    "nDescription": "Facing : North <nline> In the view from the window, the sea floor descends to great depths before you. You can see the filtered light from above reach it's tendrils into the seaweed and schools of fish that dance with the tide.",
+    "eDescription": "Facing : East <nline> You climb down the ladder and into what appears to be an observation room. There is only the twinkle of a few floor lights around the perimeter of the circular room. The window walls are ballooned outward -- their concave shape giving the entire room a \"fishbowl\" feel. A circular ottoman sits in the center of the room. Upon it, there is a golden key <nline> [YOU HAVE OBTAINED THE KEY] <nline>  The view to the east stretches into the vastness of the ocean. To your right you see the shore meet the sea floor, and to your left it reaches into the great chasm.",
+    "sDescription": "Facing : South <nline> The view towards the south is breathtaking. Schools of fish dance among the sloping shore edge that rises to meet the island to the south. Colorful cloral dot the stone shoreline. ",
+    "wDescription": "Facing : West <nline> There is the ladder in front of you which leads back towards the study and the elevator. ",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": 6
+
+
+
+
+}

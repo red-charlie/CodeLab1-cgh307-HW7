@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Walkway",
+    "nDescription": "Facing : North <nline> This side of the hallway has a view into a swirling field of seaweed. The light from above twinkles in between each strand like  the fluttering of a heartbeat.",
+    "eDescription": "Facing : East <nline> The corridor leads back towards the elevator.",
+    "sDescription": "Facing : South <nline> The view from the southside of the hallway is dazzling. Fish and all manner of sea creatures dance with one another.",
+    "wDescription": "Facing : West <nline> You walk through a corridor that turns north, then west again before you enter a dazzling display. A corrider made entirely of glass moves westward. The ocean around you completely visible -- you have the slight sense of vertigo. There is a door at the end of the hallway. You can make out a large structure past the door.",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 2,
+    "wLocation": 8
+
+
+
+
+}

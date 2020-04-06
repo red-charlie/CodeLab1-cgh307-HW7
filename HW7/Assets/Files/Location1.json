@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Door",
+    "nDescription": "Facing : North <nline> You carefully made your way into the tunnel. The darkness feels cool on your skin, and an unfamiliar chill tickles your spine. A large door blocks your path. It's old -- the metal at it's hinges have rusted, but the valve looks like it will still turn.  A circular window is at your eye height, it's fogged with condensation and age, all you can see is a soft warm glow coming from inside.",
+    "eDescription": "Facing : East <nline> The walls of the tunnel at the bottom of the stairs is glistening wet. The accumilated moisture smells of the sea. A door is to your left. The island beach is toward your right.  ",
+    "sDescription": "Facing : South <nline>  You are in a cold dark space. There is a door behind you. You look to the south, where the tunnel lifts up via a tight set of stairs. You see the soft pink sky at the mouth of the tunnel.",
+    "wDescription": "Facing : West <nline> The walls of the tunnel at the bottom of the stairs is made from smooth stone. It's dark and wet. The door is to your right, the island beach is to your left. ",
+
+    "nLocation": 2,
+    "sLocation": 0,
+    "eLocation": -1,
+    "wLocation": -1
+
+
+
+
+}

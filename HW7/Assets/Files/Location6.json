@@ -1,0 +1,17 @@
+﻿{
+
+    "locationTitle": "The Hallway",
+    "nDescription": "Facing : North <nline> You face the north side of the hallway and inspect the wood paneled walls. Yep, that’s a wall alright.  ",
+    "eDescription": "Facing : East <nline> You open the door that leads further east, and walk a slow sloping hallway that dead ends at the top of a ladder (east). You cannot see what awaits you at the bottom of the ladder.",
+    "sDescription": "Facing : South <nline> Looking at the South wall of this hallway doesn't tell you much. Seems to be wood paneling? It's kind of tacky if you think about it. ",
+    "wDescription": "Facing : West <nline> A long uphill corrider leads back into the small study.",
+
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 7,
+    "wLocation": 4
+
+
+
+
+}
